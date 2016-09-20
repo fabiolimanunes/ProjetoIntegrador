@@ -12,7 +12,7 @@ public class ModuloConexao {
 		// Chamando o Driver de conexão jdbc
 		String driver = "com.mysql.jdbc.Driver";
 		// Armazenando informações referente ao BD
-		String url = "jdbc:mysql://localhost:3306/dbinfox";
+		String url = "jdbc:mysql://localhost:3306/bd_pi_20162";
 		String user = "root";
 		String pass = "";
 		// Estabelecendo a conexão com o BD / tratando exceções / erro
